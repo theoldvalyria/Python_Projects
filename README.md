@@ -7,11 +7,10 @@
 | 5 | [A/B-тест в приложении знакомств](https://github.com/theoldvalyria/Python_Projects/tree/main/dating_app_abtest) | Проект направлен на оценку эффективности нового алгоритма поиска анкет в приложении для онлайн-знакомств. Цель A/B-теста — оценить, улучшил ли новый алгоритм качество сервиса. | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>SciPy</kbd> <kbd>продуктовые метрики</kbd> <kbd>A/B-тестирование</kbd> <kbd>проверка стат гипотез</kbd> <kbd>визуализация</kbd> |
 | 6 | [Исследование транзакционных данных](https://github.com/theoldvalyria/Python_Projects/tree/main/retail_analysis) | Проект направлен на анализ транзакционных данных интернет-магазина, отмененных транзакций, фильтрацию заказов, вычисление доходов и выявление популярных товаров и активных клиентов. | <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Jupyter</kbd> <kbd>Matplotlib</kbd> <kbd>NumPy</kbd> <kbd>Seaborn</kbd> <kbd>requests</kbd> |
 | 7 | [Исследование поведения клиентов и их операций](https://github.com/theoldvalyria/Python_Projects/tree/main/client_analysis) | Проект направлен на анализ данных о пользователях и их транзакциях для определения успешных операций, предпочитаемых платформ и визуализации возрастных распределений. |  <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Jupyter</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>requests</kbd> |
-| 8 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
+| 8 | [A/B-тест в приложении такси](https://github.com/theoldvalyria/Python_Projects/tree/main/abtest_taxi_app) | Проект направлен на анализ данных такси-компании, которая хочет изучить отток водителей и выявить различия между водителями, которые покидают сервис, и теми, которые остаются. |<kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd> <kbd>SciPy</kbd> <kbd>продуктовые метрики</kbd> <kbd>A/B-тестирование</kbd> <kbd>проверка стат гипотез</kbd> |
 | 9 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
 | 10 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
 | 11 | [Проект 4](https://example.com/project4) | Краткое описание проекта 4 | - Язык разметки<br>- Фреймворк CSS<br>- Инструмент автоматизации |
-
 
 
 
